@@ -4,3 +4,9 @@ C:\Users\Shivam Kochar\source\repos\Assignment02\Assignment02\bin\Debug\Assignme
 C:\Users\Shivam Kochar\source\repos\Assignment02\Assignment02\obj\Debug\Assignment02.exe
 C:\Users\Shivam Kochar\source\repos\Assignment02\Assignment02\obj\Debug\Assignment02.pdb
 C:\Users\Shivam Kochar\source\repos\Assignment02\Assignment02\obj\Debug\Assignment02.csprojAssemblyReference.cache
+C:\Users\Shivam Kochar\source\repos\TriangleSQA\Assignment02\bin\Debug\Assignment02.exe.config
+C:\Users\Shivam Kochar\source\repos\TriangleSQA\Assignment02\bin\Debug\Assignment02.exe
+C:\Users\Shivam Kochar\source\repos\TriangleSQA\Assignment02\bin\Debug\Assignment02.pdb
+C:\Users\Shivam Kochar\source\repos\TriangleSQA\Assignment02\obj\Debug\Assignment02.csprojAssemblyReference.cache
+C:\Users\Shivam Kochar\source\repos\TriangleSQA\Assignment02\obj\Debug\Assignment02.exe
+C:\Users\Shivam Kochar\source\repos\TriangleSQA\Assignment02\obj\Debug\Assignment02.pdb
